@@ -17,7 +17,7 @@ package autorest
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math"
 	"net/http"
 	"strconv"

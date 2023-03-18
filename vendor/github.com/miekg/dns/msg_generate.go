@@ -12,7 +12,7 @@ import (
 	"go/format"
 	"go/importer"
 	"go/types"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"strings"
 )
