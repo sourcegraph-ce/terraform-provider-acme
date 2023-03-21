@@ -3,7 +3,7 @@ package acme
 import (
 	"crypto/x509"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	"github.com/go-acme/lego/v3/certificate"

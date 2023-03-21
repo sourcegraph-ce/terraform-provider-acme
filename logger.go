@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	legoLog "github.com/go-acme/lego/v3/log"

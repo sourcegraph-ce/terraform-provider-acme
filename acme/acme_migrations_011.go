@@ -1,7 +1,7 @@
 package acme
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	"github.com/hashicorp/terraform/terraform"

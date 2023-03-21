@@ -4,7 +4,7 @@ package designate
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"sync"
 	"time"

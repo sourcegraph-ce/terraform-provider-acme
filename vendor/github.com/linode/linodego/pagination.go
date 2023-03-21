@@ -7,7 +7,7 @@ package linodego
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 
 	"gopkg.in/resty.v1"
